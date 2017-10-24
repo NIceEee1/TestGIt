@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        $a="10.24";
+        var_dump($a);
         ?>
     </body>
 </html>
